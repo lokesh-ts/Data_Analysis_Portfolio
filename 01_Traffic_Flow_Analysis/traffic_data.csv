@@ -1,0 +1,12 @@
+Date,Day,Hour,Vehicle_Count
+2025-01-06,Weekday,6,120
+2025-01-06,Weekday,8,350
+2025-01-06,Weekday,10,280
+2025-01-06,Weekday,18,420
+2025-01-07,Weekday,8,370
+2025-01-07,Weekday,18,450
+2025-01-11,Weekend,8,200
+2025-01-11,Weekend,12,260
+2025-01-11,Weekend,18,300
+2025-01-12,Weekend,10,240
+2025-01-12,Weekend,18,310
